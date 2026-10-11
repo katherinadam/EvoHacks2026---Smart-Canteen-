@@ -47,7 +47,6 @@ You can switch between **Customer (Student / Teacher)** and **Canteen Staff** ro
 | Profile | Role | Campus Dept / Class | Access Level |
 | :--- | :--- | :--- | :--- |
 | **Ethan Tan** | Student | Secondary 3E2 | Customer Interface (`Home`, `Queue Forecast`, `Menu`, `My Orders`, `Profile`) |
-| **Ms. Clara Lim** | Teacher | Mathematics Dept | Customer Interface (`Home`, `Queue Forecast`, `Menu`, `My Orders`, `Profile`) |
 | **Uncle Raymond Goh** | Canteen Staff | Central Canteen Ops | Staff Console (`Dashboard`, `Orders`, `Demand Forecast`, `Inventory`, `Reports`, `Settings`) |
 
 ---
