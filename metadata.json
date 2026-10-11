@@ -2,5 +2,7 @@
   "name": "SmartCanteen",
   "description": "AI-powered school canteen management system designed to reduce waiting times, minimise food wastage, simplify stock management, and make ordering more convenient.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
